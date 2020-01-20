@@ -1,6 +1,6 @@
 package DB;
 
-import org.sql2o.Sql2o;
+import dao.sql2o.Sql2o;
 
 public class DB {
 
