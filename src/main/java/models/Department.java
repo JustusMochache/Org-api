@@ -1,10 +1,6 @@
 package models;
 
-public class Department {
-}
-package models;
-
-        import java.util.Objects;
+import java.util.Objects;
 
 public class Department {
 
